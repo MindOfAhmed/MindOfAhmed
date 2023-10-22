@@ -7,11 +7,6 @@
 
 - 📫 How to reach me **MindOfAhmed@gmail.com**
 
-
-- 🌱 I’m currently learning **Advanced web dev using Django, Games Development using Unity, AI & ML**
-
-- 📫 How to reach me **MindOfAhmed@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/akidcalledahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="akidcalledahmed" height="30" width="40" /></a>
