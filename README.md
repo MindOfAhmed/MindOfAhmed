@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmed</h1>
-<h3 align="center">A passionate student at Goldsmiths, University Of London</h3>
+<h3 align="center">Goldsmiths, University Of London graduate</h3>
 <!-- <img align=“right” alt=“Coding” width=“400” src=“https://sithcomputers.com/wp-content/uploads/2021/02/Full-Stack-Developer-1.gif”> --> 
 <br/>
 
