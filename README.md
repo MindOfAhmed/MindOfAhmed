@@ -3,7 +3,7 @@
 <!-- <img align=“right” alt=“Coding” width=“400” src=“https://sithcomputers.com/wp-content/uploads/2021/02/Full-Stack-Developer-1.gif”> --> 
 <br/>
 
-- 🌱 I’m currently learning **ReactJS and ReactNative**
+- 🌱 I’m currently building apps using **ReactNative and Django**
 
 - 📫 How to reach me **MindOfAhmed@gmail.com**
 
